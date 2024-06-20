@@ -10,4 +10,4 @@ Sorry, Atomix, you might have some good idea, but as of now, you're a piece of s
 
 **Anyway, [here's](https://github.com/micro-onos-revamped) the github for my project !**
 
-And if you're interest in the original Micro-ONOS project, [here you go !] (https://github.com/onosproject/) Yet, I'm not affiliated with them at the moment.
+And if you're interest in the original Micro-ONOS project, [here you go !](https://github.com/onosproject/) Yet, I'm not affiliated with them at the moment.
