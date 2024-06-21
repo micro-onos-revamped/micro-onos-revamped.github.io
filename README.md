@@ -1,4 +1,4 @@
-<img src="/IMG/projlogo.png" alt="drawing" width="200"/>
+<a href="https://github.com/micro-onos-revamped"><img src="/IMG/projlogo.png" alt="drawing" width="200"/>
 
 # Micro-ONOS Revamped
 
